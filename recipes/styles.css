@@ -1,0 +1,38 @@
+*{
+    background-color: beige;
+}
+.title{
+    text-align: center;
+    color:rgb(63, 189, 138);
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.description{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.ingredient-heading,
+.ingredients {
+    font-weight: bold;
+    color: rgb(111, 80, 211);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.step-heading,
+.steps {
+    color: rgb(55, 110, 214);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#souvlaki {
+    height: 600px;
+}
